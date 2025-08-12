@@ -1,0 +1,77 @@
+body{
+    background-image: url(./photos/bg-7-full.jpg);
+}
+h1{
+    background-color:#82ecf4;
+    border-radius: 10px;
+}
+#games{
+    background-color: rgb(108, 64, 7);
+    border-radius: 30px;
+    }
+#FOOTBALL{
+  background-color:rgb(32, 86, 133);
+  width: 50%;
+  border-radius:20%;
+  padding:15px;
+  
+}
+#TUGOFWAR{
+    background-color: rgb(131, 11, 150);
+    border-radius: 20%;
+    margin-top: 1px;
+    margin-left: 40%;
+    padding:15px;
+}
+#shuttle{
+  background-color: rgb(191, 14, 135);
+  border-radius:20%;
+  width:50%;
+  padding:15px;
+}
+#things{
+    background-color: rgb(5, 219, 219);
+    border-radius: 30px;
+}
+#music{
+    background-color:#0e555e;
+  border-radius:20%;
+  width:50%;
+  padding:15px;
+}
+#walking{
+    background-color: #ea1919;
+    border-radius: 20%;
+    margin-top: 1px;
+    margin-left: 40%;
+    padding:15px;
+}
+#riding{
+    background-color:#11cba6;
+  border-radius:20%;
+  width:50%;
+  padding:15px;
+}
+#food{
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+#biryani{
+    background-color:#dac315;
+  border-radius:15%;
+  width:50%;
+  padding:15px;
+}
+#Lemon{
+    background-color:#4d7e07;
+    border-radius: 20%;
+    margin-top: 1px;
+    margin-left: 40%;
+    padding:15px;
+}
+#Tomato{
+    background-color:#e8230e;
+  border-radius:15%;
+  width:50%;
+  padding:15px;
+}
